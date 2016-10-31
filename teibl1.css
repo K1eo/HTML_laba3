@@ -1,0 +1,15 @@
+table{
+border: 2px solid #DBD2FF;
+height: 480px;
+width: 480px;
+}
+table{
+	border-collapse: collapse;
+}
+
+tr,td{
+border: 2px solid #DBD2FF;
+height: 120px;
+height: 120px;
+
+}
